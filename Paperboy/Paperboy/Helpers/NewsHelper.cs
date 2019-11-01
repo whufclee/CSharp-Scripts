@@ -1,5 +1,4 @@
-﻿using Android.Content.Res;
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
 using Paperboy.News;
 using Paperboy.News.Trending;
 using System;
