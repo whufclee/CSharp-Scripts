@@ -1,0 +1,349 @@
+{
+  "_type": "News",
+  "readLink": "https://api.cognitive.microsoft.com/api/v7/news/search?q=top+stories",
+  "totalEstimatedMatches": 65800,
+  "value": [
+    {
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/c003663c-8ff4-e4ad-d301-6aa429055fdb",
+          "name": "Propaganda film"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Evening Standard"
+        }
+      ],
+      "datePublished": "2019-07-28T17:53:00",
+      "clusteredArticles": null,
+      "mentions": null,
+      "video": null,
+      "category": "World",
+      "name": "Book of the week: This Is Not Propaganda by Peter Pomerantsev",
+      "url": "https://www.standard.co.uk/lifestyle/books/this-is-not-propaganda-adventures-in-the-war-against-reality-by-peter-pomerantsev-review-a4198046.html",
+      "description": "This review is real, isn’t it? Or was it produced by some invisible bot, cyborg, algorithm or troll? Is it an elaborately conceived dark ad or psy-op intended to undermine, say, Putin or Trump? Somehow that seems rather unlikely, but if ever the old ...",
+      "image": {
+        "contentUrl": null,
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.7150D1D2236173A0B8F4CFE411BF8F4C&pid=News",
+          "width": 700,
+          "height": 466
+        }
+      }
+    },
+    {
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/1baf9d59-f443-e9f4-6e49-de048a073e3f",
+          "name": "Spain"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Mail Online"
+        }
+      ],
+      "datePublished": "2019-07-28T12:01:00",
+      "clusteredArticles": null,
+      "mentions": null,
+      "video": null,
+      "category": "World",
+      "name": "Pictured: The £2,500-a-month luxury Spanish apartment where Stephen Lawrence suspect Jamie Acourt hid from police over £4m drugs plot",
+      "url": "https://www.dailymail.co.uk/news/article-7294801/Pictured-2-500-month-luxury-Spanish-apartment-Jamie-Acourt-hid-police.html",
+      "description": "This is the swanky Spanish bolthole by the sea where Stephen Lawrence murder suspect Jamie Acourt hid out from police over a drugs plot he is now serving nine years in a British jail for. The convicted drugs trafficker and a fugitive flatmate paid £2,550 ...",
+      "image": {
+        "contentUrl": null,
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.4C468FF5739FB837030CA67BFB468231&pid=News",
+          "width": 636,
+          "height": 382
+        }
+      }
+    },
+    {
+        "about": [
+            {
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/1baf9d59-f443-e9f4-6e49-de048a073e3f",
+                "name": "Spain"
+            }
+        ],
+        "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Guardian"
+        }
+      ],
+      "datePublished": "2019-07-28T07:59:00",
+      "clusteredArticles": null,
+      "mentions": null,
+      "video": null,
+      "category": "Politics",
+      "name": "A prime minister in campaigning mode? Hi-vis Johnson heads north",
+      "url": "https://www.theguardian.com/politics/2019/jul/27/boris-johnson-campaigning-mode-in-manchester",
+      "description": "Prime Minister Boris Johnson meets engineering graduates on the site of an under-construction tramline in Stretford, Manchester. Photograph: WPA Pool/Getty There was a sense of deja vu in Manchester’s Science and Industry Museum on Saturday. At a podium ...",
+      "image": {
+        "contentUrl": null,
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.F597E8D80647FB8CC3348059680E7A9D&pid=News",
+          "width": 700,
+          "height": 367
+        }
+      }
+    },
+    {
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/d8c12054-a38a-14f5-8f22-49ff5614aeb5",
+          "name": "BBC News"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/c7bfe2de-4f82-e23c-ae42-8544b5b5c0ea",
+          "name": "France"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "BBC"
+        }
+      ],
+      "datePublished": "2019-07-28T17:38:00",
+      "clusteredArticles": null,
+      "mentions": null,
+      "video": null,
+      "category": null,
+      "name": "French cyclists hit again by curse of Tour de France",
+      "url": "https://www.bbc.co.uk/news/world-europe-49125467",
+      "description": "As the Tour de France reached its climax, two Frenchmen were in contention to win the biggest race in cycling. But it was not to be. Thibaut Pinot's challenge ended on Friday due to injury, and then Julian Alaphilippe saw his lead fall away. The BBC's Hugh ...",
+      "image": {
+        "contentUrl": null,
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.19733DFAEE03321F60C3121AD583EE50&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      }
+    },
+    {
+        "about": [
+            {
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/1baf9d59-f443-e9f4-6e49-de048a073e3f",
+                "name": "Spain"
+            }
+        ],
+        "provider": [
+        {
+          "_type": "Organization",
+          "name": "YAHOO! News"
+        }
+      ],
+      "datePublished": "2019-07-28T17:49:00",
+      "clusteredArticles": null,
+      "mentions": null,
+      "video": null,
+      "category": "World",
+      "name": "The Latest: Iran's Rouhani seeks closer UK ties with Johnson",
+      "url": "https://uk.news.yahoo.com/latest-royal-navy-warship-sent-111957138.html",
+      "description": "VIENNA (AP) — The Latest on tensions in the Persian Gulf and over the 2015 Iran nuclear accord (all times local): 7:30 p.m. Iranian President Hassan Rouhani has penned an open letter to Britain's new prime minister Boris Johnson saying he hopes the ...",
+      "image": {
+        "contentUrl": null,
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.5CE3A15E2BAE86E27C7A15B7031C304F&pid=News",
+          "width": 700,
+          "height": 495
+        }
+      }
+    },
+    {
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/fe217755-2d46-1c61-dded-740ff4500899",
+          "name": "Boris Johnson"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/9000aafd-a3fc-3069-ec13-637cb8aa9ae7",
+          "name": "Conservative Party"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/e320dd44-b39b-fd9b-7883-0fe89bb44ace",
+          "name": "Poll"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Mail Online"
+        }
+      ],
+      "datePublished": "2019-07-28T08:23:00",
+      "clusteredArticles": null,
+      "mentions": null,
+      "video": null,
+      "category": "Politics",
+      "name": "Boris Johnson poll boost would still see Conservatives fall 26 seats short of a Commons majority",
+      "url": "https://www.dailymail.co.uk/news/article-7294533/Boris-Johnson-poll-boost-Conservatives-fall-26-seats-short-Commons-majority.html",
+      "description": "Boris Johnson would fall 26 seats short of a majority in the House of Commons if a snap general election was held tomorrow despite a surge in support for the Tories since he became PM, a series of new polls have suggested. Mr Johnson has given the ...",
+      "image": {
+        "contentUrl": null,
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.A7360719A2E12B3F0D0E0D6BC7A0C7A6&pid=News",
+          "width": 636,
+          "height": 382
+        }
+      }
+    },
+    {
+        "about": [
+            {
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/1baf9d59-f443-e9f4-6e49-de048a073e3f",
+                "name": "Spain"
+            }
+        ],
+        "provider": [
+        {
+          "_type": "Organization",
+          "name": "Independent"
+        }
+      ],
+      "datePublished": "2019-07-28T17:48:00",
+      "clusteredArticles": null,
+      "mentions": null,
+      "video": null,
+      "category": "World",
+      "name": "Milan gets harder to reach all summer long",
+      "url": "https://www.independent.co.uk/travel/news-and-advice/milan-linate-airport-airline-closure-summer-malpensa-alitalia-bergamo-a9022906.html",
+      "description": "Plenty of leading European cities have two or three airports. That includes Paris, Belfast, Moscow and Rome – not forgetting London's half dozen. And that's before you start using Ryanair’s definitions, which means Barcelona has three (Girona and Reus ...",
+      "image": {
+        "contentUrl": null,
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.E62DA885FD8EE4B01785E6BD8D21A35B&pid=News",
+          "width": 700,
+          "height": 525
+        }
+      }
+    },
+    {
+        "about": [
+            {
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/1baf9d59-f443-e9f4-6e49-de048a073e3f",
+                "name": "Spain"
+            }
+        ],
+        "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Guardian"
+        }
+      ],
+      "datePublished": "2019-07-28T16:17:00",
+      "clusteredArticles": null,
+      "mentions": null,
+      "video": null,
+      "category": "Politics",
+      "name": "Nadler: Mueller’s testimony ‘broke the lie’ Trump has been telling Americans",
+      "url": "https://www.theguardian.com/us-news/2019/jul/28/mueller-testimony-nadler-schiff-trump-lie",
+      "description": "Democrats Adam Schiff, Speaker of the House Nancy Pelosi, Jerrold Nadler, and Elijah Cummings, at a news conference after Robert Mueller’s testimony on 24 July. Photograph: J Scott Applewhite/AP Robert Mueller’s testimony to Congress “broke the lie ...",
+      "image": {
+        "contentUrl": null,
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.C3745EB93E709CA326F42373B4776093&pid=News",
+          "width": 700,
+          "height": 367
+        }
+      }
+    },
+    {
+        "about": [
+            {
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/1baf9d59-f443-e9f4-6e49-de048a073e3f",
+                "name": "Spain"
+            }
+        ],
+        "provider": [
+            {
+                "_type": "Organization",
+                "name": "Independent"
+            }
+        ],
+        "datePublished": "2019-07-28T16:48:00",
+        "clusteredArticles": null,
+        "mentions": null,
+        "video": null,
+        "category": "Politics",
+        "name": "Boris Johnson signals he will end austerity-era restraint by ripping up Hammond’s fiscal rules",
+        "url": "https://www.independent.co.uk/news/uk/politics/boris-johnson-austerity-spending-plan-philip-hammond-fiscal-a9021356.html",
+        "description": "Boris Johnson has signalled he is ready to turn on the spending taps by ditching fiscal rules drawn up by former chancellor Philip Hammond to enforce austerity. Downing Street said the rules were “under review”, suggesting that the new prime minister ...",
+        "image": {
+            "contentUrl": null,
+            "thumbnail": {
+                "contentUrl": "https://www.bing.com/th?id=ON.0FA6135362EFCEBBFCF0D87343ED3556&pid=News",
+                "width": 700,
+                "height": 525
+            }
+        }
+    },
+    {
+        "about": [
+            {
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/1baf9d59-f443-e9f4-6e49-de048a073e3f",
+                "name": "Spain"
+            }
+        ],
+        "provider": [
+        {
+          "_type": "Organization",
+          "name": "Independent"
+        }
+      ],
+      "datePublished": "2019-07-28T16:48:00",
+      "clusteredArticles": null,
+      "mentions": null,
+      "video": null,
+      "category": "Politics",
+      "name": "Boris Johnson signals he will end austerity-era restraint by ripping up Hammond’s fiscal rules",
+      "url": "https://www.independent.co.uk/news/uk/politics/boris-johnson-austerity-spending-plan-philip-hammond-fiscal-a9021356.html",
+      "description": "Boris Johnson has signalled he is ready to turn on the spending taps by ditching fiscal rules drawn up by former chancellor Philip Hammond to enforce austerity. Downing Street said the rules were “under review”, suggesting that the new prime minister ...",
+      "image": {
+        "contentUrl": null,
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.0FA6135362EFCEBBFCF0D87343ED3556&pid=News",
+          "width": 700,
+          "height": 525
+        }
+      }
+    },
+    {
+        "about": [
+            {
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/1baf9d59-f443-e9f4-6e49-de048a073e3f",
+                "name": "Spain"
+            }
+        ],
+        "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Sun"
+        }
+      ],
+      "datePublished": "2019-07-28T09:50:00",
+      "clusteredArticles": null,
+      "mentions": null,
+      "video": null,
+      "category": "Politics",
+      "name": "Jeremy Corbyn vows to stay as Labour leader for three more years despite poll revealing he’s destroying party’s election chances",
+      "url": "https://www.thesun.co.uk/news/9601147/jeremy-corbyn-fight-boris-johnson-election/",
+      "description": "UNDER-FIRE Jeremy Corbyn today vowed to stay on as Labour leader for at least three more years - as he plunged the party's Brexit policy into fresh disarray. He stared down a growing number of plotters by saying he was “absolutely” ready for an ...",
+      "image": {
+        "contentUrl": null,
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.36CF23642DFD169913DB1D953BEC4008&pid=News",
+          "width": 700,
+          "height": 466
+        }
+      }
+    }
+  ]
+}

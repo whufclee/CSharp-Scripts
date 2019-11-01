@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Paperboy"  Title="Home"
+             xmlns:pages="clr-namespace:Paperboy.Pages"
+             x:Class="Paperboy.MainPage">
+
+    <TabbedPage.ToolbarItems>
+        <ToolbarItem Text="Manage Feeds" Icon="icon_settings.png" Order="Primary" Clicked="OnCodesClicked"/>
+        <!--<ToolbarItem Text="Settings" Icon="icon_settings.png" Order="Secondary" Clicked="OnSettingsClicked"/>-->         
+    </TabbedPage.ToolbarItems>
+    
+    <TabbedPage.Children>
+        <pages:TrendingPage Icon="icon_trending.png" Title="Unread"/>
+        <pages:WorldPage Icon="icon_world.png" Title="Storyboard"/>
+        <pages:TechnologyPage Icon="icon_technology.png" Title="Disabled"/>
+    </TabbedPage.Children>
+    
+	
+</TabbedPage>
