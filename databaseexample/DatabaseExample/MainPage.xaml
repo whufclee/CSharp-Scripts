@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:DatabaseExample"  Title="Home"
+             xmlns:pages="clr-namespace:DatabaseExample.Views"
+             xmlns:controls="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin"
+             x:Class="DatabaseExample.MainPage"
+             xmlns:windows="clr-namespace:Xamarin.Forms.PlatformConfiguration.WindowsSpecific;assembly=Xamarin.Forms.Core"
+             windows:TabbedPage.HeaderIconsEnabled="true">
+
+    <TabbedPage.ToolbarItems>
+        <!--<ToolbarItem Text="Style Tests" Order="Primary" Clicked="OnStyleTestsClicked"/>-->
+        <ToolbarItem Text="Settings" Icon="icon_settings.png" Order="Secondary" Clicked="OnSettingsClicked"/>
+        <ToolbarItem Text="Manage Feeds" Icon="icon_unread.png" Order="Secondary" Clicked="OnCodesClicked"/>
+    </TabbedPage.ToolbarItems>
+
+    <TabbedPage.Children>
+        <pages:UnreadPage Icon="icon_unread.png" Title="Unread"/>
+        <pages:WebsitePage Icon="icon_websites.png" Title="Websites"/>
+        <pages:AddLinkPage Icon="icon_settings.png" Title="Add Feed"/>
+    </TabbedPage.Children>
+
+</TabbedPage>

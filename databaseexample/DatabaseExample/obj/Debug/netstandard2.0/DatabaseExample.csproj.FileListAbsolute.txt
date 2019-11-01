@@ -1,0 +1,16 @@
+C:\Users\lee.randall\Source\Repos\databaseexample\DatabaseExample\bin\Debug\netstandard2.0\DatabaseExample.deps.json
+C:\Users\lee.randall\Source\Repos\databaseexample\DatabaseExample\bin\Debug\netstandard2.0\DatabaseExample.dll
+C:\Users\lee.randall\Source\Repos\databaseexample\DatabaseExample\bin\Debug\netstandard2.0\DatabaseExample.pdb
+C:\Users\lee.randall\Source\Repos\databaseexample\DatabaseExample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lee.randall\Source\Repos\databaseexample\DatabaseExample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lee.randall\Source\Repos\databaseexample\DatabaseExample\obj\Debug\netstandard2.0\DatabaseExample.csproj.CoreCompileInputs.cache
+C:\Users\lee.randall\Source\Repos\databaseexample\DatabaseExample\obj\Debug\netstandard2.0\DatabaseExample.AssemblyInfoInputs.cache
+C:\Users\lee.randall\Source\Repos\databaseexample\DatabaseExample\obj\Debug\netstandard2.0\DatabaseExample.AssemblyInfo.cs
+C:\Users\lee.randall\Source\Repos\databaseexample\DatabaseExample\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lee.randall\Source\Repos\databaseexample\DatabaseExample\obj\Debug\netstandard2.0\DatabaseExample.dll
+C:\Users\lee.randall\Source\Repos\databaseexample\DatabaseExample\obj\Debug\netstandard2.0\DatabaseExample.pdb
+C:\Users\lee.randall\Source\Repos\databaseexample\DatabaseExample\obj\Debug\netstandard2.0\DatabaseExample.csprojAssemblyReference.cache
+C:\Users\lee.randall\Source\Repos\databaseexample\DatabaseExample\obj\Debug\netstandard2.0\Views\DisabledWebsitesPage.xaml.g.cs
+C:\Users\lee.randall\Source\Repos\databaseexample\DatabaseExample\obj\Debug\netstandard2.0\Views\WebsitePage.xaml.g.cs
+C:\Users\lee.randall\Source\Repos\databaseexample\DatabaseExample\obj\Debug\netstandard2.0\Views\SettingsPage.xaml.g.cs
+C:\Users\lee.randall\Source\Repos\databaseexample\DatabaseExample\obj\Debug\netstandard2.0\Views\UnreadPage.xaml.g.cs

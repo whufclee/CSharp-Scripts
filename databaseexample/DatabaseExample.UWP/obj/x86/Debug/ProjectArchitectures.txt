@@ -1,0 +1,1 @@
+C:\Users\lee.randall\Source\Repos\databaseexample\DatabaseExample.UWP\DatabaseExample.UWP.csproj;x86

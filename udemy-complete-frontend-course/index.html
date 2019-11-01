@@ -1,0 +1,95 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Confluence - Local Files</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="Confluence - Local Files">
+        <meta name="author" content="Lee Randall">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="stylesheet" href="./css/style.css" />
+        
+    </head>
+
+    <body>
+        <div id="context">
+            <ul class="context-menu">
+                <li><a href="#" class="hidden newtab">Open in new tab</a></li>
+                <li><a href="#">Back</a></li>
+                <li><a href="#">Forward</a></li>
+                <li><a href="#">Reload</a></li>
+                <li><a href="#" class="hidden saveimg">Save image as...</a></li>
+                <li><a href="#" class="hidden save">Save as...</a></li>
+                <li><a href="#">Inspect Element</a></li>
+            </ul>
+        </div>
+        <header id="main-header">
+            <h1 id="site-title">Select Development Portal</h1>
+            <ul class="profile-menu">
+                <li><a class="profile-menu-trigger" data-trigger="dropdown" href="#">Logged in as <span id="username"></a>
+                    <ul class="submenu">
+                        <li><a href="#">My Account</a></li>
+                        <li><a href="#">My Profile</a></li>
+                        <li><a href="#">Settings</a></li>
+                        <li><a href="#">Logout</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <br/><input placeholder="Search for a keyword in a document..." class="search-input" />
+            <button id="header-button">SEARCH</button>
+
+            <br/><br/>
+        </header>
+
+        <section id="main">
+            <a href="https://google.com" target="_blank">Go to google</a>
+            <p class="my-selector">Welcome to the Select Development Portal. This is a backup of the Confluence pages found on Jira.</p>
+
+        <section>
+            <p>Here's some text, let's call it number 1</p>
+            <p>Here's some more text, I'm gonna call this number 2 (see where we're going with this?!).</p>
+        </section>
+        </section>
+        <section>
+            <textarea class="text" placeholder="Type something here"></textarea><br />
+            <input name="email" placeholder="Email"><br /><br />
+            <p class="status"></p>
+            <button id="append">Append</button>
+            <button id="prepend">Prepend</button>
+            <button id="replace">Replace</button>
+        </section>
+        <section id="top-stories">
+            <article>
+                <div class="article-image" style="background:url(images/dog.jpg)"></div>
+                <h3>Dog kidnapped by other dog</h3>
+                <p>Ridiculous story 1 <a href="#" class="more-link">Read More...</a></p>
+            </article>                
+
+            <article>
+                <div class="article-image" style="background:url(images/furryrodent.jpg)"></div>
+                <h3>Dog kidnapped by furry rodent</h3>
+                <p>Ridiculous story 2 <a href="#" class="more-link">Read More...</a></p>
+            </article>    
+
+            <article>
+                <div id="bieber-img" class="article-image" style="background:url(images/bobhoskins.jpg)"></div>
+                <div id="bieber-text">
+                    <h3>Bob Hoskins ate my beaver!</h3>
+                    <p>Ridiculous story 3 <a href="#" class="more-link">Read More...</a></p>
+                </div>
+            </article>    
+        </section>
+
+        <img src="images/bobhoskins.jpg">
+
+            <footer class="center"><br /><br />
+                &copy; 2019<br />
+                <a href="#">Terms of Service</a>
+            </footer>
+        </section>
+
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+        <script src="./js/main.js"></script>
+        <script src="./js/sid.js"></script>
+    </body>
+</html>

@@ -1,0 +1,628 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    >
+
+<channel>
+    <title>TR News</title>
+    <atom:link href="https://www.tr.news/feed/" rel="self" type="application/rss+xml" />
+    <link>https://www.tr.news</link>
+    <description></description>
+    <lastBuildDate>Thu, 12 Sep 2019 13:18:04 +0000</lastBuildDate>
+    <language>en-GB</language>
+    <sy:updatePeriod>
+    hourly  </sy:updatePeriod>
+    <sy:updateFrequency>
+    1   </sy:updateFrequency>
+    <generator>https://wordpress.org/?v=5.2.3</generator>
+    <item>
+        <title>Champagne Socialist Emily Thornberry Flip-Flops On Brexit Policy</title>
+        <link>https://www.tr.news/champagne-socialist-emily-thornberry-flip-flops-on-brexit-policy/</link>
+                <pubDate>Thu, 12 Sep 2019 13:18:04 +0000</pubDate>
+        <dc:creator><![CDATA[TR News]]></dc:creator>
+                <category><![CDATA[Brexit]]></category>
+        <category><![CDATA[Far-Left]]></category>
+        <category><![CDATA[Politics]]></category>
+        <category><![CDATA[World News]]></category>
+        <category><![CDATA[breaking]]></category>
+        <category><![CDATA[brexit]]></category>
+        <category><![CDATA[Communism]]></category>
+        <category><![CDATA[conservatives]]></category>
+        <category><![CDATA[corruption]]></category>
+        <category><![CDATA[Emily Thornberry]]></category>
+        <category><![CDATA[fake news]]></category>
+        <category><![CDATA[featured]]></category>
+        <category><![CDATA[Good Morning Britain]]></category>
+        <category><![CDATA[Piers Morgan]]></category>
+        <category><![CDATA[politics]]></category>
+        <category><![CDATA[Radical]]></category>
+        <category><![CDATA[referendum]]></category>
+        <category><![CDATA[social media]]></category>
+        <category><![CDATA[Susanne Reid]]></category>
+        <category><![CDATA[terrorism]]></category>
+        <category><![CDATA[Terrorist]]></category>
+        <category><![CDATA[video]]></category>
+        <category><![CDATA[World]]></category>
+
+        <guid isPermaLink="false">https://www.tr.news/?p=6056</guid>
+                <description><![CDATA[<p>The Labour party is in political turmoil with its electorate as its Brexit strategy is&#8230;</p>
+<p>The post <a rel="nofollow" href="https://www.tr.news/champagne-socialist-emily-thornberry-flip-flops-on-brexit-policy/">Champagne Socialist Emily Thornberry Flip-Flops On Brexit Policy</a> appeared first on <a rel="nofollow" href="https://www.tr.news">TR News</a>.</p>
+]]></description>
+                                <content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><h3><span style="color: #ff0000;"><strong>The Labour party is in political turmoil with its electorate as its Brexit strategy is EXPOSED. <a href="https://www.thesun.co.uk/news/8884160/emily-thornberry-champagne-socialist-game-of-thrones/" target="_blank" rel="noopener noreferrer">Champagne Socialist</a> Emily Thornberry Flip-Flops On Brexit Policy.</strong></span></h3>
+<h4><span style="color: #0000ff;"><strong>Semantical Champagne Socialism</strong></span></h4>
+<p>Piers Morgan, for all of his faults, his ignorance and love for the sound of his own voice, was perhaps the perfect <strong>&ldquo;personality&rdquo;</strong> to confront Labour MP and shadow cabinet member Emily Thornberry about Labours policy on Brexit.</p>
+<p>Emily was happy to engage Piers on matters of Brexit, kudos to her. However, she did not expect him to work his way through the political guff and obfuscation that most politicians think they can get away with.</p>
+<p>Piers pressed and pressed, and to be fair, and to her credit, so did <strong>&ldquo;devout lefty&rdquo;</strong> Susanna Reid on the Good Morning Britain programme. Emily had a bad day at the office, not because it was her fault, but because she was forced to concede the astonishingly astonishing Labour policy of <strong>DENYING BREXIT</strong> and ultimately the will of the British people.</p>
+<p style="text-align: center;"><iframe style="border: none;" src="https://www.bitchute.com/embed/uX5WgclmW7Ky/" width="640" height="360" frameborder="0" scrolling="no"></iframe></p>
+<h4><span style="color: #0000ff;"><strong>Labour Party Policy On Brexit Is&hellip;</strong></span></h4>
+<p>For more than three years now, we have been going back and forth in Parliament with a speaker who is opposed to Brexit and Donald Trump. We have been going back and forth with motions and amendments to get Brexit done in Parliament with little to no success. We have seen a change in Conservative policy and Prime Ministership because of Brexit, but very few <strong>&ldquo;tangible&rdquo;</strong> signs that Parliamentarians will honour the will of the British people.</p>
+<p>Boris and his new cabinet seem to be heading in the right direction with getting Brexit done, they seem to be making the right noises and effort to bring Brexit to a conclusion. However, these efforts are not without challenges from conniving cross-party demagogues who are hell-bent on remaining in the European Union.</p>
+<p>Finally, we now know that Labour&rsquo;s policy on Brexit is that they will <strong>&ldquo;re-negotiate&rdquo;</strong> a Brexit deal with the EU, then, once agreed, they will disregard the deal, disregard Brexit, disregard the will of the British people and stay in the EU after hopefully winning an election and a new referendum.</p>
+<p>Labour&rsquo;s stance is now crystal clear, <strong>NO BREXIT</strong> end of!</p>
+<p>Thanks for clearing that up Emily.</p></body></html>
+<p>The post <a rel="nofollow" href="https://www.tr.news/champagne-socialist-emily-thornberry-flip-flops-on-brexit-policy/">Champagne Socialist Emily Thornberry Flip-Flops On Brexit Policy</a> appeared first on <a rel="nofollow" href="https://www.tr.news">TR News</a>.</p>
+]]></content:encoded>
+                                        </item>
+        <item>
+        <title>Remoaners Go Judge Shopping</title>
+        <link>https://www.tr.news/remoaners-go-judge-shopping/</link>
+                <pubDate>Wed, 11 Sep 2019 15:44:36 +0000</pubDate>
+        <dc:creator><![CDATA[TR News]]></dc:creator>
+                <category><![CDATA[Brexit]]></category>
+        <category><![CDATA[Far-Left]]></category>
+        <category><![CDATA[World News]]></category>
+        <category><![CDATA[bbc]]></category>
+        <category><![CDATA[Boris Johnson]]></category>
+        <category><![CDATA[breaking]]></category>
+        <category><![CDATA[brexit]]></category>
+        <category><![CDATA[conservatives]]></category>
+        <category><![CDATA[court]]></category>
+        <category><![CDATA[Dame Victoria Sharp]]></category>
+        <category><![CDATA[Edinburgh]]></category>
+        <category><![CDATA[featured]]></category>
+        <category><![CDATA[Gina Miller]]></category>
+        <category><![CDATA[House Of Commons]]></category>
+        <category><![CDATA[Judge Shopping]]></category>
+        <category><![CDATA[Labour]]></category>
+        <category><![CDATA[Lord Burnett of Maldon]]></category>
+        <category><![CDATA[Lord Doherty]]></category>
+        <category><![CDATA[media]]></category>
+        <category><![CDATA[parliament]]></category>
+        <category><![CDATA[politics]]></category>
+        <category><![CDATA[Proroguing]]></category>
+        <category><![CDATA[Radical]]></category>
+        <category><![CDATA[Remoaners]]></category>
+        <category><![CDATA[Sir Terence Etherton]]></category>
+        <category><![CDATA[social media]]></category>
+        <category><![CDATA[Supreme Court]]></category>
+        <category><![CDATA[twitter]]></category>
+        <category><![CDATA[video]]></category>
+        <category><![CDATA[World]]></category>
+        <category><![CDATA[youtube]]></category>
+
+        <guid isPermaLink="false">https://www.tr.news/?p=6046</guid>
+                <description><![CDATA[<p>We have highlighted the fact that Remoaners will use lawfare to get what they want.&#8230;</p>
+<p>The post <a rel="nofollow" href="https://www.tr.news/remoaners-go-judge-shopping/">Remoaners Go Judge Shopping</a> appeared first on <a rel="nofollow" href="https://www.tr.news">TR News</a>.</p>
+]]></description>
+                                <content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><h3><span style="color: #ff0000;"><strong>We have highlighted the fact that Remoaners will use lawfare to get what they want. Remoaners go Judge shopping and finally get a decision they wanted.</strong></span></h3>
+<h4><span style="color: #0000ff;"><strong>If At First You Don&rsquo;t Succeed</strong></span></h4>
+<p>We have previously highlighted the fact that the Brexit betrayers of Parliament attempted to use lawfare to stop the proroguing of Parliament and deal Boris a bloody nose.</p>
+<p>You can read about that <a href="https://www.tr.news/the-brexit-civil-war-wages-on/" target="_blank" rel="noopener noreferrer"><strong>HERE</strong></a>.</p>
+<p>Parliamentary remainers have sought an audience with various Judges in the UK in an attempt to get a decision they wanted. The first case was heard in Edinburgh by Lord Doherty, who said:</p>
+<blockquote><p><span style="color: #ff0000;"><strong>&ldquo;In my opinion, there has been no contravention of the rule of law. Parliament is the master of its own proceedings. It is for Parliament to decide when it sits. Parliament can sit before and after prorogation.&rdquo;</strong></span></p></blockquote>
+<p>That decision was made on the 4th of September.</p>
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/UVJqIuEHEY0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>&nbsp;</p>
+<h4><span style="color: #0000ff;"><strong>Wealthy Activist Attacks</strong></span></h4>
+<p>Gina Miller is an ardent<strong> &ldquo;remainiac&rdquo;</strong> businesswoman who won a major legal case against the Conservative government which stopped them from leaving the European Union without parliamentary approval. You can read more about her and that decision <a href="https://www.thesun.co.uk/news/2281513/gina-miller-brexit-boris-johnson/" target="_blank" rel="noopener noreferrer"><strong>HERE</strong></a>.</p>
+<div id="attachment_6049" style="width: 613px" class="wp-caption aligncenter"><a href="https://www.tr.news/remoaners-go-judge-shopping/gina/" rel="attachment wp-att-6049"><img aria-describedby="caption-attachment-6049" class="size-full wp-image-6049" src="https://www.tr.news/wp-content/uploads/2019/09/Gina.png" alt="Anti-Brexit Gina Miller" width="603" height="378" srcset="https://www.tr.news/wp-content/uploads/2019/09/Gina.png 603w, https://www.tr.news/wp-content/uploads/2019/09/Gina-300x188.png 300w, https://www.tr.news/wp-content/uploads/2019/09/Gina-585x367.png 585w" sizes="(max-width: 603px) 100vw, 603px"></a><p id="caption-attachment-6049" class="wp-caption-text">Activist Anti-Brexit Gina Miller</p></div>
+<p>Gina set about taking the Conservative government to court again over the proroguing of Parliament, but on that occasion, her case was dismissed. Although dismissed by lord chief justice, Lord Burnett of Maldon, Sir Terence Etherton and <strong>Dame Victoria Sharp</strong>, the case was granted permission for appeal at the supreme court.</p>
+<h4><span style="color: #0000ff;"><strong>Shopping For The Right Judge</strong></span></h4>
+<p>More than 70 Ministers of Parliament (including members of the SNP) went Judge shopping. They did this to cast a wide legal net in the hope that at least one Judge would rule that Boris&rsquo;s proroguing of Parliament was <strong>&ldquo;unlawful&rdquo;</strong>.</p>
+<p>Although Lord Doherty ruled that there was <strong>&ldquo;no contravention of the rule of law&rdquo;</strong> concerning the proroguing issue that was not the end of the political drama. The case against the government was heard again in Scotlands highest civil court by Lord Carloway who ruled that the proroguing of Parliament was, in fact, unlawful after all.</p>
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/fK8Dm7_YAko" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<h4><span style="color: #0000ff;"><strong>Boris Fighting Back</strong></span></h4>
+<p>The Conservative government is confident it will win its case at the supreme court. The case is due to be heard on Tuesday the 17th of September where the issue of Parliamentary prorogation should come to a final legal conclusion.</p>
+<p>The political dramas of Brexit go on, and on, and on.</p></body></html>
+<p>The post <a rel="nofollow" href="https://www.tr.news/remoaners-go-judge-shopping/">Remoaners Go Judge Shopping</a> appeared first on <a rel="nofollow" href="https://www.tr.news">TR News</a>.</p>
+]]></content:encoded>
+                                        </item>
+        <item>
+        <title>Remembering Those Who Died On 9/11</title>
+        <link>https://www.tr.news/remembering-those-who-died-on-9-11/</link>
+                <pubDate>Wed, 11 Sep 2019 14:19:14 +0000</pubDate>
+        <dc:creator><![CDATA[TR News]]></dc:creator>
+                <category><![CDATA[Islam]]></category>
+        <category><![CDATA[U.S.A News]]></category>
+        <category><![CDATA[World News]]></category>
+        <category><![CDATA[9/11]]></category>
+        <category><![CDATA[breaking]]></category>
+        <category><![CDATA[crime]]></category>
+        <category><![CDATA[Donald Trump]]></category>
+        <category><![CDATA[featured]]></category>
+        <category><![CDATA[isis]]></category>
+        <category><![CDATA[Islamic crime]]></category>
+        <category><![CDATA[Israel]]></category>
+        <category><![CDATA[Kevin Carroll]]></category>
+        <category><![CDATA[Labour]]></category>
+        <category><![CDATA[media]]></category>
+        <category><![CDATA[Muslim Brotherhood]]></category>
+        <category><![CDATA[Palestine]]></category>
+        <category><![CDATA[police]]></category>
+        <category><![CDATA[politics]]></category>
+        <category><![CDATA[Radical]]></category>
+        <category><![CDATA[social media]]></category>
+        <category><![CDATA[terrorism]]></category>
+        <category><![CDATA[Terrorist]]></category>
+        <category><![CDATA[Tommy Robinson]]></category>
+        <category><![CDATA[video]]></category>
+        <category><![CDATA[violence]]></category>
+        <category><![CDATA[World]]></category>
+
+        <guid isPermaLink="false">https://www.tr.news/?p=6041</guid>
+                <description><![CDATA[<p>Today we remember those who died on 9/11. Islamic terrorists attacked the world trade centre&#8230;</p>
+<p>The post <a rel="nofollow" href="https://www.tr.news/remembering-those-who-died-on-9-11/">Remembering Those Who Died On 9/11</a> appeared first on <a rel="nofollow" href="https://www.tr.news">TR News</a>.</p>
+]]></description>
+                                <content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><h3><strong>Today we remember those who died on 9/11. Islamic terrorists attacked the world trade centre buildings in New York and the Pentagon by flying passenger jets full of innocent people into them.</strong></h3>
+<h3><strong>Our thoughts and prayers are with all the families who suffered and continue to suffer the loss of loved ones on that fateful day.</strong></h3>
+<h3><strong>We also remember the bravery of all those emergency responders who selflessly sacrificed their lives in the act of saving others.</strong></h3>
+<h3><strong>To our cousins over the pond, we stand in solidarity with you now and always.</strong></h3>
+<h3><strong>God bless America.</strong></h3></body></html>
+<p>The post <a rel="nofollow" href="https://www.tr.news/remembering-those-who-died-on-9-11/">Remembering Those Who Died On 9/11</a> appeared first on <a rel="nofollow" href="https://www.tr.news">TR News</a>.</p>
+]]></content:encoded>
+                                        </item>
+        <item>
+        <title>Singing For A Marxist REVOLUTION</title>
+        <link>https://www.tr.news/singing-for-a-marxist-revolution/</link>
+                <pubDate>Wed, 11 Sep 2019 12:04:48 +0000</pubDate>
+        <dc:creator><![CDATA[TR News]]></dc:creator>
+                <category><![CDATA[Far-Left]]></category>
+        <category><![CDATA[Politics]]></category>
+        <category><![CDATA[Video]]></category>
+        <category><![CDATA[World News]]></category>
+        <category><![CDATA[breaking]]></category>
+        <category><![CDATA[brexit]]></category>
+        <category><![CDATA[censorship]]></category>
+        <category><![CDATA[Communism]]></category>
+        <category><![CDATA[Communist]]></category>
+        <category><![CDATA[conservatives]]></category>
+        <category><![CDATA[corruption]]></category>
+        <category><![CDATA[Danielle Rowley MP]]></category>
+        <category><![CDATA[Donald Trump]]></category>
+        <category><![CDATA[featured]]></category>
+        <category><![CDATA[Jeremy Corbyn]]></category>
+        <category><![CDATA[Labour]]></category>
+        <category><![CDATA[media]]></category>
+        <category><![CDATA[Mike Stuchbery]]></category>
+        <category><![CDATA[politics]]></category>
+        <category><![CDATA[Radical]]></category>
+        <category><![CDATA[Red Flag]]></category>
+        <category><![CDATA[social media]]></category>
+        <category><![CDATA[twitter]]></category>
+        <category><![CDATA[video]]></category>
+        <category><![CDATA[World]]></category>
+
+        <guid isPermaLink="false">https://www.tr.news/?p=6032</guid>
+                <description><![CDATA[<p>Danielle Rowley is a Labour MP and a shadow climate minister campaigner. Danielle and her&#8230;</p>
+<p>The post <a rel="nofollow" href="https://www.tr.news/singing-for-a-marxist-revolution/">Singing For A Marxist REVOLUTION</a> appeared first on <a rel="nofollow" href="https://www.tr.news">TR News</a>.</p>
+]]></description>
+                                <content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><h3><span style="color: #ff0000;"><strong>Danielle Rowley is a Labour MP and a shadow climate minister campaigner. Danielle and her Labour colleagues are singing for a Marxist revolution in the House of Commons.</strong></span></h3>
+<h4><span style="color: #0000ff;"><strong>Corbyn&rsquo;s Comunista Comrades</strong></span></h4>
+<p>Everybody knows that Jeremy Corbyn&rsquo;s Labour party is a party of the very far-left. The Labour Party&rsquo;s Socialist and Communist leanings were on full display as Comrade Corbyn acolytes sang their dear little hearts out in the House of Commons.</p>
+<p>The soulless ballad of <a href="https://www.youtube.com/watch?v=1xJoWzPZGjY" target="_blank" rel="noopener noreferrer"><strong>&ldquo;The Red Flag&rdquo;</strong></a> echoed through the chambers of Parliament, perhaps as an ode to a coming communist revolutionary storm here in Britain.</p>
+<p>Danielle Rowley posted on her twitter account a recording of this tone-deaf rendition to advertise the fact that the authoritarian left is here to shake things up in British politics.</p>
+<div id="attachment_6034" style="width: 1076px" class="wp-caption aligncenter"><a href="https://www.tr.news/singing-for-a-marxist-revolution/danielle/" rel="attachment wp-att-6034"><img aria-describedby="caption-attachment-6034" class="size-full wp-image-6034" src="https://www.tr.news/wp-content/uploads/2019/09/Danielle.png" alt="Danielle Rowley a Socialist Revolutionary" width="1066" height="976" srcset="https://www.tr.news/wp-content/uploads/2019/09/Danielle.png 1066w, https://www.tr.news/wp-content/uploads/2019/09/Danielle-300x275.png 300w, https://www.tr.news/wp-content/uploads/2019/09/Danielle-768x703.png 768w, https://www.tr.news/wp-content/uploads/2019/09/Danielle-1024x938.png 1024w, https://www.tr.news/wp-content/uploads/2019/09/Danielle-585x536.png 585w" sizes="(max-width: 1066px) 100vw, 1066px"></a><p id="caption-attachment-6034" class="wp-caption-text">Danielle Rowley a Socialist Revolutionary</p></div>
+<p>You can find that tweet <a href="https://twitter.com/DaniRowley/status/1171220453635100672" target="_blank" rel="noopener noreferrer">here:</a></p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">I know you&rsquo;re not meant to film in the chamber, but everyone on the opposition benches is singing and this moment was beautiful. <a href="https://t.co/MfQzpdTHRa">pic.twitter.com/MfQzpdTHRa</a></p>
+<p>&mdash; Danielle Rowley MP (@DaniRowley) <a href="https://twitter.com/DaniRowley/status/1171220453635100672?ref_src=twsrc%5Etfw">September 10, 2019</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>No doubt Jeremy Corbyn would have been impressed by the sheer <strong>&ldquo;talent&rdquo;</strong> he has backing his political agenda.</p>
+<p style="text-align: center;"><iframe style="border: none;" src="https://www.bitchute.com/embed/yRkV2tzMNt0R/" width="640" height="360" frameborder="0" scrolling="no"></iframe></p>
+<h4><span style="color: #0000ff;"><strong>The Authoritarian Left</strong></span></h4>
+<p>Everybody who has a sense of history knows that Socialism/Communism has been an abject failure for humanity. It cost the lives of appoximately <span style="color: #ff0000;"><strong>100 MILLION</strong></span> people worldwide in the 20th century alone, yet we are expected to embrace another wave of left-wing totalitarianism?</p>
+<div id="attachment_6035" style="width: 491px" class="wp-caption aligncenter"><a href="https://www.tr.news/singing-for-a-marxist-revolution/black-book/" rel="attachment wp-att-6035"><img aria-describedby="caption-attachment-6035" class="size-full wp-image-6035" src="https://www.tr.news/wp-content/uploads/2019/09/Black-Book.png" alt="The Results Of Karl Marx's Manifesto Of The Communist Party" width="481" height="743" srcset="https://www.tr.news/wp-content/uploads/2019/09/Black-Book.png 481w, https://www.tr.news/wp-content/uploads/2019/09/Black-Book-194x300.png 194w" sizes="(max-width: 481px) 100vw, 481px"></a><p id="caption-attachment-6035" class="wp-caption-text">The Results Of Karl Marx&rsquo;s Manifesto Of The Communist Party</p></div>
+<p>Wherever Socialism has taken hold in this world, it has caused misery, degradation, the forced repression of individualism and abject poverty. It has produced the very worst tyrannical, oppressive and murderous regimes the world has ever known. Even Nazis were Socialists; such is the irony.</p>
+<p>Socialism hides behind the semantics of tolerance and inclusion when in reality it divides, represses and ultimately bankrupt&rsquo;s the state. It crushes the individual and leaves its people frustrated and in a state of continual social and economic regression.</p>
+<p>Capitalism may have its faults, but it has managed to pull <strong>MILLIONS</strong> of people worldwide <strong>OUT</strong> of poverty, Socialism has done the opposite while murdering voices who dare to dissent.</p>
+<p>Who wants to give Socialism another chance?</p>
+<p>Those who do not learn from history are doomed to repeat it.</p>
+<p>Make your votes count!</p></body></html>
+<p>The post <a rel="nofollow" href="https://www.tr.news/singing-for-a-marxist-revolution/">Singing For A Marxist REVOLUTION</a> appeared first on <a rel="nofollow" href="https://www.tr.news">TR News</a>.</p>
+]]></content:encoded>
+                                        </item>
+        <item>
+        <title>Corbyn And McDonnell Exposed For Supporting Terrorists</title>
+        <link>https://www.tr.news/corbyn-and-mcdonnell-exposed-for-supporting-terrorists/</link>
+                <pubDate>Tue, 10 Sep 2019 16:12:28 +0000</pubDate>
+        <dc:creator><![CDATA[TR News]]></dc:creator>
+                <category><![CDATA[Crime]]></category>
+        <category><![CDATA[Far-Left]]></category>
+        <category><![CDATA[Politics]]></category>
+        <category><![CDATA[breaking]]></category>
+        <category><![CDATA[brexit]]></category>
+        <category><![CDATA[Communism]]></category>
+        <category><![CDATA[conservatives]]></category>
+        <category><![CDATA[corruption]]></category>
+        <category><![CDATA[court]]></category>
+        <category><![CDATA[crime]]></category>
+        <category><![CDATA[featured]]></category>
+        <category><![CDATA[gangs]]></category>
+        <category><![CDATA[Hamas]]></category>
+        <category><![CDATA[isis]]></category>
+        <category><![CDATA[Islam]]></category>
+        <category><![CDATA[Islamic crime]]></category>
+        <category><![CDATA[Israel]]></category>
+        <category><![CDATA[Jeremy Corbyn]]></category>
+        <category><![CDATA[John McDonnell]]></category>
+        <category><![CDATA[Labour]]></category>
+        <category><![CDATA[media]]></category>
+        <category><![CDATA[Mike Stuchbery]]></category>
+        <category><![CDATA[Muslim Brotherhood]]></category>
+        <category><![CDATA[Palestine]]></category>
+        <category><![CDATA[police]]></category>
+        <category><![CDATA[politics]]></category>
+        <category><![CDATA[Radical]]></category>
+        <category><![CDATA[social media]]></category>
+        <category><![CDATA[terrorism]]></category>
+        <category><![CDATA[Terrorist]]></category>
+        <category><![CDATA[Tommy Robinson]]></category>
+        <category><![CDATA[twitter]]></category>
+        <category><![CDATA[video]]></category>
+        <category><![CDATA[violence]]></category>
+        <category><![CDATA[youtube]]></category>
+
+        <guid isPermaLink="false">https://www.tr.news/?p=6019</guid>
+                <description><![CDATA[<p>Ex-Labour MP Ian Austin representing Dudley North sets the house on fire, igniting the TRUTH.&#8230;</p>
+<p>The post <a rel="nofollow" href="https://www.tr.news/corbyn-and-mcdonnell-exposed-for-supporting-terrorists/">Corbyn And McDonnell Exposed For Supporting Terrorists</a> appeared first on <a rel="nofollow" href="https://www.tr.news">TR News</a>.</p>
+]]></description>
+                                <content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><h3><span style="color: #ff0000;"><strong>Ex-Labour MP Ian Austin representing Dudley North sets the house on fire, igniting the TRUTH. Corbyn and McDonnell EXPOSED for supporting terrorists.</strong></span></h3>
+<h4><span style="color: #0000ff;"><strong>Fresh Air In An Atmosphere Of Swamp Sewerage</strong></span></h4>
+<p>Ian Austin is a <strong>&ldquo;former&rdquo;</strong> Labour MP who has become disaffected by the current Labour leadership turning a party he loved into a party of terrorist sympathies and racism.</p>
+<p>Ian shocked the political foundations of his former party, a party he left on the 21st of February this year, by daring to stand up to IRA, Hamas and Hezbollah supporters Jeremy Corbyn and John McDonnell.</p>
+<p style="text-align: center;"><iframe style="border: none;" src="https://www.bitchute.com/embed/98cg8R2CHZMZ/" width="640" height="360" frameborder="0" scrolling="no"></iframe></p>
+<h4><strong><span style="color: #0000ff;">Regretting IRA Support?</span></strong></h4>
+<p>Labour MP John McDonnell is the current shadow chancellor; he has praised the <strong>&ldquo;bravery&rdquo;</strong> of the IRA and went on record saying:</p>
+<blockquote><p><span style="color: #ff0000;"><strong>&ldquo;The peace we have now is due to the action of the IRA. Because of the bravery of the IRA and people like Bobby Sands, we now have a peace process.&rdquo;</strong></span></p></blockquote>
+<p>You can find that <a href="https://www.belfasttelegraph.co.uk/news/northern-ireland/labours-john-mcdonnell-admits-his-proira-comments-part-of-the-problem-37892147.html" target="_blank" rel="noopener noreferrer"><strong>HERE</strong></a>.</p>
+<div id="attachment_6024" style="width: 570px" class="wp-caption aligncenter"><a href="https://www.tr.news/corbyn-and-mcdonnell-exposed-for-supporting-terrorists/mcdonnell/" rel="attachment wp-att-6024"><img aria-describedby="caption-attachment-6024" class="size-full wp-image-6024" src="https://www.tr.news/wp-content/uploads/2019/09/McDonnell.png" alt="John McDonnell And Sinn Fein&rsquo;s Gerry Kelly" width="560" height="336" srcset="https://www.tr.news/wp-content/uploads/2019/09/McDonnell.png 560w, https://www.tr.news/wp-content/uploads/2019/09/McDonnell-300x180.png 300w" sizes="(max-width: 560px) 100vw, 560px"></a><p id="caption-attachment-6024" class="wp-caption-text">John McDonnell And Sinn Fein&rsquo;s Gerry Kelly</p></div>
+<p>Jeremy Corbyn, also a supporter of the IRA, actually praised the IRA&rsquo;s <strong>&ldquo;Brighton Grand Hotel Bombing&rdquo;</strong> which came very close to wiping out Margaret Thatchers Conservative cabinet. Jeremy&rsquo;s support and sympathies for terrorists were so concerning that MI5 actually opened a file on him in the early 1990s. Yes, that&rsquo;s right, the current leader of the Labour party was monitored because of his links to the IRA. Shouldn&rsquo;t he also be investigated for his links to Hamas and Hezbollah as well, both are proscribed terrorist organisations after all?</p>
+<p>You can read more about these things <strong><a href="https://www.telegraph.co.uk/news/2017/05/19/exclusive-mi5-opened-file-jeremy-corbyn-amid-concerns-ira-links/" target="_blank" rel="noopener noreferrer">HERE</a> </strong>and <strong><a href="https://www.tr.news/jeremy-how-about-protesting-yourself/" target="_blank" rel="noopener noreferrer">HERE</a></strong>.</p>
+<div id="attachment_6023" style="width: 616px" class="wp-caption aligncenter"><a href="https://www.tr.news/corbyn-and-mcdonnell-exposed-for-supporting-terrorists/corbyn-ira/" rel="attachment wp-att-6023"><img aria-describedby="caption-attachment-6023" class="size-full wp-image-6023" src="https://www.tr.news/wp-content/uploads/2019/09/Corbyn-IRA.png" alt="Jeremy Corbyn And Gerry Adams" width="606" height="382" srcset="https://www.tr.news/wp-content/uploads/2019/09/Corbyn-IRA.png 606w, https://www.tr.news/wp-content/uploads/2019/09/Corbyn-IRA-300x189.png 300w, https://www.tr.news/wp-content/uploads/2019/09/Corbyn-IRA-585x369.png 585w" sizes="(max-width: 606px) 100vw, 606px"></a><p id="caption-attachment-6023" class="wp-caption-text">Jeremy Corbyn And Gerry Adams</p></div>
+<p>Just imagine for a moment, two terrorist sympathising politicians gaining power in Parliament and leading Great Britain into what is supposed to be a <strong>&ldquo;Post Brexit&rdquo;</strong> era?</p>
+<p>Make your votes count; Comrade Corbyn is not a friend of Great Britain, he never has been, he never will be.</p></body></html>
+<p>The post <a rel="nofollow" href="https://www.tr.news/corbyn-and-mcdonnell-exposed-for-supporting-terrorists/">Corbyn And McDonnell Exposed For Supporting Terrorists</a> appeared first on <a rel="nofollow" href="https://www.tr.news">TR News</a>.</p>
+]]></content:encoded>
+                                        </item>
+        <item>
+        <title>Bye-Bye To Bercows Gesticulating Partisanship</title>
+        <link>https://www.tr.news/bye-bye-to-bercows-gesticulating-partisanship/</link>
+                <pubDate>Tue, 10 Sep 2019 12:32:57 +0000</pubDate>
+        <dc:creator><![CDATA[TR News]]></dc:creator>
+                <category><![CDATA[Brexit]]></category>
+        <category><![CDATA[Politics]]></category>
+        <category><![CDATA[Satire]]></category>
+        <category><![CDATA[Boris Johnson]]></category>
+        <category><![CDATA[breaking]]></category>
+        <category><![CDATA[brexit]]></category>
+        <category><![CDATA[censorship]]></category>
+        <category><![CDATA[Communism]]></category>
+        <category><![CDATA[conservatives]]></category>
+        <category><![CDATA[corruption]]></category>
+        <category><![CDATA[court]]></category>
+        <category><![CDATA[Far-Left]]></category>
+        <category><![CDATA[featured]]></category>
+        <category><![CDATA[House Of Commons]]></category>
+        <category><![CDATA[House Of Lords]]></category>
+        <category><![CDATA[Houses Of Parliament]]></category>
+        <category><![CDATA[John Bercow]]></category>
+        <category><![CDATA[Labour]]></category>
+        <category><![CDATA[media]]></category>
+        <category><![CDATA[politics]]></category>
+        <category><![CDATA[Primates]]></category>
+        <category><![CDATA[Proroguing]]></category>
+        <category><![CDATA[social media]]></category>
+        <category><![CDATA[Speaker]]></category>
+        <category><![CDATA[Speaker of The House]]></category>
+        <category><![CDATA[video]]></category>
+
+        <guid isPermaLink="false">https://www.tr.news/?p=6012</guid>
+                <description><![CDATA[<p>The speaker is the chief officer and highest authority of the House of Commons and&#8230;</p>
+<p>The post <a rel="nofollow" href="https://www.tr.news/bye-bye-to-bercows-gesticulating-partisanship/">Bye-Bye To Bercows Gesticulating Partisanship</a> appeared first on <a rel="nofollow" href="https://www.tr.news">TR News</a>.</p>
+]]></description>
+                                <content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><h3><span style="color: #ff0000;"><strong>The speaker is the chief officer and highest authority of the House of Commons and must remain politically impartial at all times they say. Its time to say bye-bye to Bercows gesticulating partisanship.</strong></span></h3>
+<h4><span style="color: #0000ff;"><strong>A Gesticulating Gonad</strong></span></h4>
+<p>According to the <a href="https://www.parliament.uk/business/commons/the-speaker/the-role-of-the-speaker/role-of-the-speaker/" target="_blank" rel="noopener noreferrer">Parliament website</a>, the speaker of the House Of Commons <strong>MUST</strong> be politically impartial. But how does that work out when we take a look at John Bercow&rsquo;s recent political precedents?</p>
+<h4><span style="color: #0000ff;"><strong>Proroguing Partisanship</strong></span></h4>
+<p>Anti-Brexit Europhile Ministers have made a real song and dance of Boris Johnson shutting down Parliament, like its the very end of democracy itself, perhaps worse even than climate change! The act of proroguing Parliament is nothing new; neither is it unprecedented for a term of around five weeks.</p>
+<p>John Bercow, the <strong>&ldquo;impartial&rdquo;</strong> speaker of the house, having all eyes on him, put on another magnificent performance as the video above will show. The dramas of Parliamentary pontificators are not only cringe-worthy but somewhat akin to a reality TV series based in London zoo.</p>
+<p>The <strong>&ldquo;remaining&rdquo;</strong> elected chimpanzees of the house are throwing tantrums and excrement at each other, and John Bercow is more than happy to frolic with their faeces. This dreadful zootopian disaster is making a monkey out of democracy while it beats its chest in defiance of the will of the British people.</p>
+<div id="attachment_6014" style="width: 1205px" class="wp-caption aligncenter"><a href="https://www.tr.news/bye-bye-to-bercows-gesticulating-partisanship/bercow/" rel="attachment wp-att-6014"><img aria-describedby="caption-attachment-6014" class="size-full wp-image-6014" src="https://www.tr.news/wp-content/uploads/2019/09/bercow.png" alt="Bye- Bye John Bercow" width="1195" height="553" srcset="https://www.tr.news/wp-content/uploads/2019/09/bercow.png 1195w, https://www.tr.news/wp-content/uploads/2019/09/bercow-300x139.png 300w, https://www.tr.news/wp-content/uploads/2019/09/bercow-768x355.png 768w, https://www.tr.news/wp-content/uploads/2019/09/bercow-1024x474.png 1024w, https://www.tr.news/wp-content/uploads/2019/09/bercow-1170x541.png 1170w, https://www.tr.news/wp-content/uploads/2019/09/bercow-585x271.png 585w" sizes="(max-width: 1195px) 100vw, 1195px"></a><p id="caption-attachment-6014" class="wp-caption-text">John Bercow Sucking Oxygen Out Of The House Of Commons</p></div>
+<h4><span style="color: #0000ff;"><strong>Bercows Brexit Animus</strong></span></h4>
+<p>John Bercow, rather than being <strong>&ldquo;impartial&rdquo;</strong> is in fact, highly partisan on the Brexit agenda and scores highly with his <strong>&ldquo;remaining&rdquo;</strong> friends in the house of primates.</p>
+<p>John Bercow has time and again inserted himself, his opinion, and his unprecedented acts of Brexit betrayal, time and time again into the Brexit process, hindering rather than helping. Whether it be criticising proroguing of Parliament, personally attacking MP&rsquo;s and revealing where<a href="https://www.express.co.uk/news/politics/1173843/john-bercow-brexit-michael-gove-no-deal-brexit-news-house-of-commons-speaker" target="_blank" rel="noopener noreferrer"> their children are schooled</a>, or just playing games with <a href="https://www.independent.co.uk/voices/bercow-brexit-vote-speaker-stop-amendment-eu-theresa-may-deal-mp-commons-a8845321.html" target="_blank" rel="noopener noreferrer">Parliamentary amendments</a> that could have pushed the Brexit issue forwards rather than backwards, the fact is John Bercow is a little Europhile Nelson.</p>
+<p>John Bercow is a man who serves at his own pleasure. Former, deputy speaker <a href="https://www.express.co.uk/news/uk/1173605/Brexit-news-latest-Boris-Johnson-john-Bercow-Remain-vote-leave-eu-no-deal-general-election" target="_blank" rel="noopener noreferrer">Natascha Engel</a> has gone on record saying that he <strong>&ldquo;invented new rules&rdquo;</strong> and switched from <strong>&ldquo;impartial referee to partisan player-manager&rdquo;</strong>.</p>
+<p>Jacob Rese-Mogg <a href="https://www.msn.com/en-gb/news/brexit/outrage-over-suspension-of-parliament-dismissed-as-phoney/ar-AAGu1Ea?li=BBoPWjQ&amp;item=personalization_enabled:false" target="_blank" rel="noopener noreferrer">called Bercow out</a> for his <strong>&ldquo;unconstitutional&rdquo;</strong> personal and opinionated rantings by saying:</p>
+<blockquote><p><span style="color: #ff0000;"><strong>&ldquo;I think the outrage is phoney and it is created by people who don&rsquo;t want us to leave the European Union and are trying very hard to overturn the referendum result and don&rsquo;t want the benefits of leaving the European Union.&rdquo;</strong></span></p>
+<p><span style="color: #ff0000;"><strong>It is not constitutional for the speaker to express his opinion without the direction of the House.&rdquo;</strong></span></p></blockquote>
+<p>It was very sad to hear that John Bercow is resigning his position, but not until late October of course!</p>
+<p>It&rsquo;s time to say bye-bye to Bercows gesticulating partisanship and get a proper referee in the House of Primates.</p></body></html>
+<p>The post <a rel="nofollow" href="https://www.tr.news/bye-bye-to-bercows-gesticulating-partisanship/">Bye-Bye To Bercows Gesticulating Partisanship</a> appeared first on <a rel="nofollow" href="https://www.tr.news">TR News</a>.</p>
+]]></content:encoded>
+                                        </item>
+        <item>
+        <title>Activists block trams in protest of &#8216;climate change&#8217;</title>
+        <link>https://www.tr.news/activists-block-trams-for-climate-change/</link>
+                <pubDate>Tue, 10 Sep 2019 00:00:07 +0000</pubDate>
+        <dc:creator><![CDATA[Avi Yemini]]></dc:creator>
+                <category><![CDATA[Far-Left]]></category>
+        <category><![CDATA[Video]]></category>
+        <category><![CDATA[World News]]></category>
+        <category><![CDATA[Australia]]></category>
+        <category><![CDATA[Avi Yemini]]></category>
+        <category><![CDATA[climate change]]></category>
+        <category><![CDATA[featured]]></category>
+        <category><![CDATA[melbourne]]></category>
+        <category><![CDATA[protest]]></category>
+
+        <guid isPermaLink="false">https://www.tr.news/?p=6007</guid>
+                <description><![CDATA[<p>On Friday, a group of left-wing activists decided to blockade a busy tram intersection in&#8230;</p>
+<p>The post <a rel="nofollow" href="https://www.tr.news/activists-block-trams-for-climate-change/">Activists block trams in protest of &#8216;climate change&#8217;</a> appeared first on <a rel="nofollow" href="https://www.tr.news">TR News</a>.</p>
+]]></description>
+                                <content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><h2>On Friday, a group of left-wing activists decided to blockade a busy tram intersection in  Melbourne&rsquo;s CBD in protest of &lsquo;climate change&rsquo;.</h2>
+<p>Being my curious self, I decided to ask them if they saw the irony in their &ldquo;protest&rdquo; action.</p>
+<p>Their answers were hilarious, as usual.</p>
+<p>I also approached some bystanders who &ldquo;just wanted to get home&rdquo; after a long week of work. I asked them if this protest made any difference in how they feel about global warming or climate change.</p>
+<p>Apparently, in 11 years, I&rsquo;m going to have to remove my scarf.</p>
+<p>WATCH &amp; SHARE what climate fearmongering causes.</p>
+<h3>Please consider supporting our work:</h3>
+<p><script src="https://donorbox.org/widget.js" paypalexpress="false"></script><iframe style="max-width: 100%; min-width: 100%; max-height: none!important;" src="https://donorbox.org/embed/going-independent?default_interval=m" name="donorbox" width="100%" height="685px" frameborder="0" scrolling="no" seamless="seamless"></iframe></p>
+<script>jQuery(document).ready(function($){
+            new ClipboardJS('.CDBBC_btn');
+        }
+        ) </script><div class="cbd-container"><ul class="cbd-tabs" id="cbd-coin-list"><li class="cbd-coins current" id="bitcoin" data-tab="bitcoin-tab">
+                    <img src="https://www.tr.news/wp-content/plugins/cryptocurrency-donation-box/assets/logos/bitcoin.svg"> Bitcoin</li><li class="cbd-coins " id="ethereum" data-tab="ethereum-tab">
+                    <img src="https://www.tr.news/wp-content/plugins/cryptocurrency-donation-box/assets/logos/ethereum.svg"> Ethereum</li><li class="cbd-coins " id="bitcoin-cash" data-tab="bitcoin-cash-tab">
+                    <img src="https://www.tr.news/wp-content/plugins/cryptocurrency-donation-box/assets/logos/bitcoin-cash.svg"> Bitcoin cash</li><li class="cbd-coins " id="stellar" data-tab="stellar-tab">
+                    <img src="https://www.tr.news/wp-content/plugins/cryptocurrency-donation-box/assets/logos/stellar.svg"> Stellar</li></ul><div class="dbd-tabs-content current" id="bitcoin-tab"><div class="CDBBC_qr_code"><img src="https://www.tr.news/wp-content/plugins/cryptocurrency-donation-box/includes/generate-qr-code.php?1FnAD3Z2SmPXwXFVqQHTtDfTkzJVVv3yPn" alt="Scan to Donate Bitcoin to 1FnAD3Z2SmPXwXFVqQHTtDfTkzJVVv3yPn"/></div><div class="CDBBC_input_add">
+                    <h2 class="CDBBC-title">Donate Bitcoin to this address</h2>
+                    <p class="CDBBC-desc">Scan the QR code or copy the address below into your wallet to send some Bitcoin</p>
+                    <input type="text" class="wallet-address-input"  id="bitcoin-wallet-address" name="bitcoin-wallet-address" value="1FnAD3Z2SmPXwXFVqQHTtDfTkzJVVv3yPn">
+                    <button class="CDBBC_btn" data-clipboard-target="#bitcoin-wallet-address">
+                    COPY</button></div></div><div class="dbd-tabs-content " id="ethereum-tab"><div class="CDBBC_qr_code"><img src="https://www.tr.news/wp-content/plugins/cryptocurrency-donation-box/includes/generate-qr-code.php? 0x4FBA969cEa26927946135755b3A5f569EaaDf241" alt="Scan to Donate Ethereum to  0x4FBA969cEa26927946135755b3A5f569EaaDf241"/></div><div class="CDBBC_input_add">
+                    <h2 class="CDBBC-title">Donate Ethereum to this address</h2>
+                    <p class="CDBBC-desc">Scan the QR code or copy the address below into your wallet to send some Ethereum</p>
+                    <input type="text" class="wallet-address-input"  id="ethereum-wallet-address" name="ethereum-wallet-address" value=" 0x4FBA969cEa26927946135755b3A5f569EaaDf241">
+                    <button class="CDBBC_btn" data-clipboard-target="#ethereum-wallet-address">
+                    COPY</button></div></div><div class="dbd-tabs-content " id="bitcoin-cash-tab"><div class="CDBBC_qr_code"><img src="https://www.tr.news/wp-content/plugins/cryptocurrency-donation-box/includes/generate-qr-code.php?qq4ju9am04jv0p434j9a3p5fv6vsz3afqq5mtp4vd5" alt="Scan to Donate Bitcoin cash to qq4ju9am04jv0p434j9a3p5fv6vsz3afqq5mtp4vd5"/></div><div class="CDBBC_input_add">
+                    <h2 class="CDBBC-title">Donate Bitcoin cash to this address</h2>
+                    <p class="CDBBC-desc">Scan the QR code or copy the address below into your wallet to send some Bitcoin cash</p>
+                    <input type="text" class="wallet-address-input"  id="bitcoin-cash-wallet-address" name="bitcoin-cash-wallet-address" value="qq4ju9am04jv0p434j9a3p5fv6vsz3afqq5mtp4vd5">
+                    <button class="CDBBC_btn" data-clipboard-target="#bitcoin-cash-wallet-address">
+                    COPY</button></div></div><div class="dbd-tabs-content " id="stellar-tab"><div class="CDBBC_qr_code"><img src="https://www.tr.news/wp-content/plugins/cryptocurrency-donation-box/includes/generate-qr-code.php?GDN2GUN5GE6ZIOKD2PUZJHTYYWJQVHPDN6SMN4HW7NNWQOYDKYHXC2FQ" alt="Scan to Donate Stellar to GDN2GUN5GE6ZIOKD2PUZJHTYYWJQVHPDN6SMN4HW7NNWQOYDKYHXC2FQ"/></div><div class="CDBBC_input_add">
+                    <h2 class="CDBBC-title">Donate Stellar to this address</h2>
+                    <p class="CDBBC-desc">Scan the QR code or copy the address below into your wallet to send some Stellar</p>
+                    <input type="text" class="wallet-address-input"  id="stellar-wallet-address" name="stellar-wallet-address" value="GDN2GUN5GE6ZIOKD2PUZJHTYYWJQVHPDN6SMN4HW7NNWQOYDKYHXC2FQ">
+                    <button class="CDBBC_btn" data-clipboard-target="#stellar-wallet-address">
+                    COPY</button></div></div></div><script>jQuery(document).ready(function($){
+                $('ul.cbd-tabs li').click(function(){
+               var tab_id = $(this).attr('data-tab');
+             $('ul.cbd-tabs li').removeClass('current');
+                $('.dbd-tabs-content').removeClass('current');
+
+                $(this).addClass('current');
+                $('#'+tab_id).addClass('current');
+                 }
+                 )
+            }
+         ) </script>
+</body></html>
+<p>The post <a rel="nofollow" href="https://www.tr.news/activists-block-trams-for-climate-change/">Activists block trams in protest of &#8216;climate change&#8217;</a> appeared first on <a rel="nofollow" href="https://www.tr.news">TR News</a>.</p>
+]]></content:encoded>
+                                        </item>
+        <item>
+        <title>Bolshy Boris To Die In A Ditch?</title>
+        <link>https://www.tr.news/bolshy-boris-to-die-in-a-ditch/</link>
+                <pubDate>Mon, 09 Sep 2019 15:22:14 +0000</pubDate>
+        <dc:creator><![CDATA[TR News]]></dc:creator>
+                <category><![CDATA[Brexit]]></category>
+        <category><![CDATA[Donald Trump]]></category>
+        <category><![CDATA[Tommy Robinson]]></category>
+        <category><![CDATA[World News]]></category>
+        <category><![CDATA[bbc]]></category>
+        <category><![CDATA[Boris Johnson]]></category>
+        <category><![CDATA[breaking]]></category>
+        <category><![CDATA[brexit]]></category>
+        <category><![CDATA[censorship]]></category>
+        <category><![CDATA[Communism]]></category>
+        <category><![CDATA[conservatives]]></category>
+        <category><![CDATA[corruption]]></category>
+        <category><![CDATA[court]]></category>
+        <category><![CDATA[crime]]></category>
+        <category><![CDATA[fake news]]></category>
+        <category><![CDATA[Far-Left]]></category>
+        <category><![CDATA[featured]]></category>
+        <category><![CDATA[Labour]]></category>
+        <category><![CDATA[media]]></category>
+        <category><![CDATA[Mike Stuchbery]]></category>
+        <category><![CDATA[politics]]></category>
+        <category><![CDATA[Radical]]></category>
+        <category><![CDATA[social media]]></category>
+        <category><![CDATA[video]]></category>
+        <category><![CDATA[World]]></category>
+        <category><![CDATA[youtube]]></category>
+
+        <guid isPermaLink="false">https://www.tr.news/?p=5995</guid>
+                <description><![CDATA[<p>The never-ending drama of the political tug of war being played out in Parliament puts&#8230;</p>
+<p>The post <a rel="nofollow" href="https://www.tr.news/bolshy-boris-to-die-in-a-ditch/">Bolshy Boris To Die In A Ditch?</a> appeared first on <a rel="nofollow" href="https://www.tr.news">TR News</a>.</p>
+]]></description>
+                                <content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><h3><span style="color: #ff0000;"><strong>The never-ending drama of the political tug of war being played out in Parliament puts Eastenders to shame. But is bolshy Boris to die in a ditch in the next episode?</strong></span></h3>
+<h4><span style="color: #0000ff;"><strong>Polling Accuracy</strong></span></h4>
+<p>Politicians and media outlets have used polling agencies to test the political temperature of the UK when it comes down to Brexit, deal or no deal, and of course, remaining. The polls on average always seemed to tilt in the way of remain just before the referendum went ahead, the polls even now seem to indicate a remain majority?</p>
+<div id="attachment_5997" style="width: 1388px" class="wp-caption aligncenter"><a href="https://www.tr.news/bolshy-boris-to-die-in-a-ditch/polls/" rel="attachment wp-att-5997"><img aria-describedby="caption-attachment-5997" class="size-full wp-image-5997" src="https://www.tr.news/wp-content/uploads/2019/09/Polls.png" alt="Polling Data Is It Reliable?" width="1378" height="852" srcset="https://www.tr.news/wp-content/uploads/2019/09/Polls.png 1378w, https://www.tr.news/wp-content/uploads/2019/09/Polls-300x185.png 300w, https://www.tr.news/wp-content/uploads/2019/09/Polls-768x475.png 768w, https://www.tr.news/wp-content/uploads/2019/09/Polls-1024x633.png 1024w, https://www.tr.news/wp-content/uploads/2019/09/Polls-1170x723.png 1170w, https://www.tr.news/wp-content/uploads/2019/09/Polls-585x362.png 585w" sizes="(max-width: 1378px) 100vw, 1378px"></a><p id="caption-attachment-5997" class="wp-caption-text">Polling Data Is It Reliable?</p></div>
+<p>How much attention should we give to these<strong> &ldquo;polls&rdquo;</strong> anyway? Do they really capture the political temperature and opinions of the British public and go on to publicise a foregone conclusion? Let&rsquo;s take a minute to <a href="https://www.telegraph.co.uk/news/2016/06/24/eu-referendum-how-right-or-wrong-were-the-polls/" target="_blank" rel="noopener noreferrer">think back on the polling</a> running up to the referendum on Brexit. Pretty much all of the polls were in favour of remaining in the European Union. The BBC and other globalist media corporations projected a foregone conclusion; we would <strong>REMAIN</strong> in Europe because that&rsquo;s what the British people would inevitably vote for.</p>
+<h4><span style="color: #0000ff;"><strong>Trumped Up Polling</strong></span></h4>
+<p>We witnessed in the Presidential Elections of 2016, pollsters publicising another foregone conclusion. Hillary Clinton would win the presidency of the United States in a landslide victory; we published an article about that <a href="https://www.tr.news/keeping-america-great-donald-trump/" target="_blank" rel="noopener noreferrer"><strong>HERE.</strong></a></p>
+<p><a href="https://www.tr.news/keeping-america-great-donald-trump/nyt-fake-news/" rel="attachment wp-att-4487"><img class="aligncenter size-full wp-image-4487" src="https://www.tr.news/wp-content/uploads/2019/06/NYT-Fake-News.png" alt="" width="643" height="924" srcset="https://www.tr.news/wp-content/uploads/2019/06/NYT-Fake-News.png 643w, https://www.tr.news/wp-content/uploads/2019/06/NYT-Fake-News-209x300.png 209w, https://www.tr.news/wp-content/uploads/2019/06/NYT-Fake-News-585x841.png 585w" sizes="(max-width: 643px) 100vw, 643px"></a>After the 2016 Presidential election, pollsters were left scratching their heads. Their political crystal balls got the results so spectacularly wrong in just about every sense. The political classes and their globalist enablers in the media were left befuddled; the American public did not buy what they were selling. They tried to sell a foregone conclusion, and the American people did not buy it. Good for them!</p>
+<p>Likewise, the British people were sold a foregone conclusion about <strong>REMAINING</strong> in the EU. Again the pollster&rsquo;s crystal balls were left wanting in the most spectacular way because of the end result. <strong>LEAVE</strong> was the decision of the British people by a margin of 51.9% v&rsquo;s 48.1%. More than a <strong>MILLION</strong> people made the difference between the remain and leave camps.</p>
+<div id="attachment_5999" style="width: 949px" class="wp-caption aligncenter"><a href="https://www.tr.news/bolshy-boris-to-die-in-a-ditch/leave1/" rel="attachment wp-att-5999"><img aria-describedby="caption-attachment-5999" class="size-full wp-image-5999" src="https://www.tr.news/wp-content/uploads/2019/09/Leave1.png" alt="What A Shocker - Leave It Is!" width="939" height="298" srcset="https://www.tr.news/wp-content/uploads/2019/09/Leave1.png 939w, https://www.tr.news/wp-content/uploads/2019/09/Leave1-300x95.png 300w, https://www.tr.news/wp-content/uploads/2019/09/Leave1-768x244.png 768w, https://www.tr.news/wp-content/uploads/2019/09/Leave1-585x186.png 585w" sizes="(max-width: 939px) 100vw, 939px"></a><p id="caption-attachment-5999" class="wp-caption-text">What A Shocker &ndash; Leave It Is!</p></div>
+<h4><span style="color: #0000ff;"><strong>Boris Dies In A Ditch?</strong></span></h4>
+<p>Understandably, people are tired of the ongoing tug of war between MP&rsquo;s who are from the remain camp and those MP&rsquo;s who are in the leave camp. Jeremy Corbyn has set about his flip-flopping policies to damage Boris Johnson. Parliamentary remainers believe they can subvert the will of the British people and have gone to great lengths to do so. But Boris has called them out; he has managed to expose them for the lying little toads they are, and the British people have seen it.</p>
+<p>The political posturing of the Labour opposition and remainer MP&rsquo;s was such that they wanted a general election, but now, for some reason we can&rsquo;t fathom, they no longer want that to happen? Why could that be?</p>
+<div id="attachment_5998" style="width: 903px" class="wp-caption aligncenter"><a href="https://www.tr.news/bolshy-boris-to-die-in-a-ditch/corbyn-poll/" rel="attachment wp-att-5998"><img aria-describedby="caption-attachment-5998" class="size-full wp-image-5998" src="https://www.tr.news/wp-content/uploads/2019/09/Corbyn-Poll.png" alt="Some Polls Are Better Than Others" width="893" height="590" srcset="https://www.tr.news/wp-content/uploads/2019/09/Corbyn-Poll.png 893w, https://www.tr.news/wp-content/uploads/2019/09/Corbyn-Poll-300x198.png 300w, https://www.tr.news/wp-content/uploads/2019/09/Corbyn-Poll-768x507.png 768w, https://www.tr.news/wp-content/uploads/2019/09/Corbyn-Poll-780x516.png 780w, https://www.tr.news/wp-content/uploads/2019/09/Corbyn-Poll-585x387.png 585w, https://www.tr.news/wp-content/uploads/2019/09/Corbyn-Poll-263x175.png 263w" sizes="(max-width: 893px) 100vw, 893px"></a><p id="caption-attachment-5998" class="wp-caption-text">Some Polls Are Better Than Others</p></div>
+<p>The British public are not stupid; the Labour opposition and other remainer MP&rsquo;s seem to be in a state of delusion. Boris is politically cunning and elusive; his detractors think they have him in a bind, Boris would no doubt like them to believe that.</p>
+<p>Let&rsquo;s just say the worst comes to the very worst and Boris is outed and leaves Number 10 because of some duplicitous undemocratic globalist shills working for the EU. A general election is inevitable, and like a martyred phoenix rising from the flames comes bolshy Boris. The peoples champion drops the people&rsquo;s elbow onto the forehead of comrade Corbyn, thus crushing his communist regime in a landslide victory for the <strong>LEAVERS</strong> of this world.</p>
+<p>Parliament will have been purged of Anti-Democratic swine, and Britain will have reset itself politically for generations to come.</p>
+<p>Don&rsquo;t we all like a happy ending?</p></body></html>
+<p>The post <a rel="nofollow" href="https://www.tr.news/bolshy-boris-to-die-in-a-ditch/">Bolshy Boris To Die In A Ditch?</a> appeared first on <a rel="nofollow" href="https://www.tr.news">TR News</a>.</p>
+]]></content:encoded>
+                                        </item>
+        <item>
+        <title>Geert Wilders Speaking Truth To Power</title>
+        <link>https://www.tr.news/geert-wilders-speaking-truth-to-power/</link>
+                <pubDate>Mon, 09 Sep 2019 10:29:18 +0000</pubDate>
+        <dc:creator><![CDATA[TR News]]></dc:creator>
+                <category><![CDATA[Brexit]]></category>
+        <category><![CDATA[Politics]]></category>
+        <category><![CDATA[Tommy Robinson]]></category>
+        <category><![CDATA[World News]]></category>
+        <category><![CDATA[breaking]]></category>
+        <category><![CDATA[brexit]]></category>
+        <category><![CDATA[censorship]]></category>
+        <category><![CDATA[Communism]]></category>
+        <category><![CDATA[conservatives]]></category>
+        <category><![CDATA[corruption]]></category>
+        <category><![CDATA[court]]></category>
+        <category><![CDATA[crime]]></category>
+        <category><![CDATA[Donald Trump]]></category>
+        <category><![CDATA[Dutch]]></category>
+        <category><![CDATA[EU]]></category>
+        <category><![CDATA[European Commission]]></category>
+        <category><![CDATA[European Parliament]]></category>
+        <category><![CDATA[European Union]]></category>
+        <category><![CDATA[Eurosceptic]]></category>
+        <category><![CDATA[Far-Left]]></category>
+        <category><![CDATA[featured]]></category>
+        <category><![CDATA[Free Movement]]></category>
+        <category><![CDATA[Freedom Party]]></category>
+        <category><![CDATA[Geert Wilders]]></category>
+        <category><![CDATA[Hamas]]></category>
+        <category><![CDATA[Holland]]></category>
+        <category><![CDATA[immigration]]></category>
+        <category><![CDATA[isis]]></category>
+        <category><![CDATA[Islam]]></category>
+        <category><![CDATA[Islamic crime]]></category>
+        <category><![CDATA[Israel]]></category>
+        <category><![CDATA[Labour]]></category>
+        <category><![CDATA[media]]></category>
+        <category><![CDATA[Mike Stuchbery]]></category>
+        <category><![CDATA[Muslim Brotherhood]]></category>
+        <category><![CDATA[Muslim Defence League]]></category>
+        <category><![CDATA[Muslim paedophile groomers]]></category>
+        <category><![CDATA[Netherlands]]></category>
+        <category><![CDATA[Palestine]]></category>
+        <category><![CDATA[politics]]></category>
+        <category><![CDATA[PVV]]></category>
+        <category><![CDATA[Radical]]></category>
+        <category><![CDATA[social media]]></category>
+        <category><![CDATA[terrorism]]></category>
+        <category><![CDATA[Terrorist]]></category>
+        <category><![CDATA[video]]></category>
+        <category><![CDATA[World]]></category>
+
+        <guid isPermaLink="false">https://www.tr.news/?p=5990</guid>
+                <description><![CDATA[<p>Tommy Robinson has some very influential political friends here in the UK and abroad. Today&#8217;s&#8230;</p>
+<p>The post <a rel="nofollow" href="https://www.tr.news/geert-wilders-speaking-truth-to-power/">Geert Wilders Speaking Truth To Power</a> appeared first on <a rel="nofollow" href="https://www.tr.news">TR News</a>.</p>
+]]></description>
+                                <content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><h3><span style="color: #ff0000;"><strong>Tommy Robinson has some very influential political friends here in the UK and abroad. Today&rsquo;s video showcases Geert Wilders speaking truth to power.</strong></span></h3>
+<h4><span style="color: #000000;"><strong>In an age of political correctness and the centralised legislative powers of the European Union, Geert Wilders talks in plain and uncomplicated terms. He provides unambiguous thoughts on the state of Brexit, the United Kingdom and the EU.</strong></span></h4>
+<h4><span style="color: #000000;"><strong>Geert has long campaigned against the authoritarian political union of Europe and its disastrous policies of free movement and immigration. Geert understands how the importation of millions of people from Islamic countries produces more terrorism, more cultural divides and a massive increase in Anti-Semitism throughout Europe.</strong></span></h4>
+<h4><span style="color: #000000;"><strong>It is always refreshing to hear any politician speak so plainly and honestly about immigration, Islam, and the European Union. Geert is one of the very few who does exactly that.</strong></span></h4></body></html>
+<p>The post <a rel="nofollow" href="https://www.tr.news/geert-wilders-speaking-truth-to-power/">Geert Wilders Speaking Truth To Power</a> appeared first on <a rel="nofollow" href="https://www.tr.news">TR News</a>.</p>
+]]></content:encoded>
+                                        </item>
+        <item>
+        <title>WATCH: Chinese man confronts me about Hong Kong</title>
+        <link>https://www.tr.news/chinese-man-confronts-avi-yemini-hong-kong/</link>
+                <pubDate>Sun, 08 Sep 2019 09:55:52 +0000</pubDate>
+        <dc:creator><![CDATA[Avi Yemini]]></dc:creator>
+                <category><![CDATA[Video]]></category>
+        <category><![CDATA[World News]]></category>
+        <category><![CDATA[Australia]]></category>
+        <category><![CDATA[Avi Yemini]]></category>
+        <category><![CDATA[china]]></category>
+        <category><![CDATA[Chinese]]></category>
+        <category><![CDATA[featured]]></category>
+        <category><![CDATA[Hong Kong]]></category>
+        <category><![CDATA[melbourne]]></category>
+        <category><![CDATA[protester]]></category>
+
+        <guid isPermaLink="false">https://www.tr.news/?p=5983</guid>
+                <description><![CDATA[<p>I was in Melbourne&#8217;s CBD covering another story when a proud Chinese man approached and&#8230;</p>
+<p>The post <a rel="nofollow" href="https://www.tr.news/chinese-man-confronts-avi-yemini-hong-kong/">WATCH: Chinese man confronts me about Hong Kong</a> appeared first on <a rel="nofollow" href="https://www.tr.news">TR News</a>.</p>
+]]></description>
+                                <content:encoded><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><h1>I was in Melbourne&rsquo;s CBD covering another story when a proud Chinese man approached and confronts me about my <a href="https://www.tr.news/what-do-chinese-people-think-of-the-hong-kong-protests/" rel="noopener noreferrer" target="_blank">latest video</a> on &ldquo;China and Hong Kong&rdquo;.</h1>
+<p>So I put the same questions to him as I did to the others I had interviewed in that video; his answers were even worse.</p>
+<p><strong>WATCH &amp; SHARE our full conversation above.</strong></p>
+<p><em>Watch the original video the man was referencing: </em><br><iframe title="What do Chinese people think of the Hong Kong protests?" width="1170" height="658" src="https://www.youtube.com/embed/UkRpJ5UCN40?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<h3>Please consider supporting our work:</h3>
+<p><script src="https://donorbox.org/widget.js" paypalexpress="false"></script><iframe style="max-width: 100%; min-width: 100%; max-height: none!important;" src="https://donorbox.org/embed/going-independent?default_interval=m" name="donorbox" width="100%" height="685px" frameborder="0" scrolling="no" seamless="seamless"></iframe></p>
+<script>jQuery(document).ready(function($){
+            new ClipboardJS('.CDBBC_btn');
+        }
+        ) </script><div class="cbd-container"><ul class="cbd-tabs" id="cbd-coin-list"><li class="cbd-coins current" id="bitcoin" data-tab="bitcoin-tab">
+                    <img src="https://www.tr.news/wp-content/plugins/cryptocurrency-donation-box/assets/logos/bitcoin.svg"> Bitcoin</li><li class="cbd-coins " id="ethereum" data-tab="ethereum-tab">
+                    <img src="https://www.tr.news/wp-content/plugins/cryptocurrency-donation-box/assets/logos/ethereum.svg"> Ethereum</li><li class="cbd-coins " id="bitcoin-cash" data-tab="bitcoin-cash-tab">
+                    <img src="https://www.tr.news/wp-content/plugins/cryptocurrency-donation-box/assets/logos/bitcoin-cash.svg"> Bitcoin cash</li><li class="cbd-coins " id="stellar" data-tab="stellar-tab">
+                    <img src="https://www.tr.news/wp-content/plugins/cryptocurrency-donation-box/assets/logos/stellar.svg"> Stellar</li></ul><div class="dbd-tabs-content current" id="bitcoin-tab"><div class="CDBBC_qr_code"><img src="https://www.tr.news/wp-content/plugins/cryptocurrency-donation-box/includes/generate-qr-code.php?1FnAD3Z2SmPXwXFVqQHTtDfTkzJVVv3yPn" alt="Scan to Donate Bitcoin to 1FnAD3Z2SmPXwXFVqQHTtDfTkzJVVv3yPn"/></div><div class="CDBBC_input_add">
+                    <h2 class="CDBBC-title">Donate Bitcoin to this address</h2>
+                    <p class="CDBBC-desc">Scan the QR code or copy the address below into your wallet to send some Bitcoin</p>
+                    <input type="text" class="wallet-address-input"  id="bitcoin-wallet-address" name="bitcoin-wallet-address" value="1FnAD3Z2SmPXwXFVqQHTtDfTkzJVVv3yPn">
+                    <button class="CDBBC_btn" data-clipboard-target="#bitcoin-wallet-address">
+                    COPY</button></div></div><div class="dbd-tabs-content " id="ethereum-tab"><div class="CDBBC_qr_code"><img src="https://www.tr.news/wp-content/plugins/cryptocurrency-donation-box/includes/generate-qr-code.php? 0x4FBA969cEa26927946135755b3A5f569EaaDf241" alt="Scan to Donate Ethereum to  0x4FBA969cEa26927946135755b3A5f569EaaDf241"/></div><div class="CDBBC_input_add">
+                    <h2 class="CDBBC-title">Donate Ethereum to this address</h2>
+                    <p class="CDBBC-desc">Scan the QR code or copy the address below into your wallet to send some Ethereum</p>
+                    <input type="text" class="wallet-address-input"  id="ethereum-wallet-address" name="ethereum-wallet-address" value=" 0x4FBA969cEa26927946135755b3A5f569EaaDf241">
+                    <button class="CDBBC_btn" data-clipboard-target="#ethereum-wallet-address">
+                    COPY</button></div></div><div class="dbd-tabs-content " id="bitcoin-cash-tab"><div class="CDBBC_qr_code"><img src="https://www.tr.news/wp-content/plugins/cryptocurrency-donation-box/includes/generate-qr-code.php?qq4ju9am04jv0p434j9a3p5fv6vsz3afqq5mtp4vd5" alt="Scan to Donate Bitcoin cash to qq4ju9am04jv0p434j9a3p5fv6vsz3afqq5mtp4vd5"/></div><div class="CDBBC_input_add">
+                    <h2 class="CDBBC-title">Donate Bitcoin cash to this address</h2>
+                    <p class="CDBBC-desc">Scan the QR code or copy the address below into your wallet to send some Bitcoin cash</p>
+                    <input type="text" class="wallet-address-input"  id="bitcoin-cash-wallet-address" name="bitcoin-cash-wallet-address" value="qq4ju9am04jv0p434j9a3p5fv6vsz3afqq5mtp4vd5">
+                    <button class="CDBBC_btn" data-clipboard-target="#bitcoin-cash-wallet-address">
+                    COPY</button></div></div><div class="dbd-tabs-content " id="stellar-tab"><div class="CDBBC_qr_code"><img src="https://www.tr.news/wp-content/plugins/cryptocurrency-donation-box/includes/generate-qr-code.php?GDN2GUN5GE6ZIOKD2PUZJHTYYWJQVHPDN6SMN4HW7NNWQOYDKYHXC2FQ" alt="Scan to Donate Stellar to GDN2GUN5GE6ZIOKD2PUZJHTYYWJQVHPDN6SMN4HW7NNWQOYDKYHXC2FQ"/></div><div class="CDBBC_input_add">
+                    <h2 class="CDBBC-title">Donate Stellar to this address</h2>
+                    <p class="CDBBC-desc">Scan the QR code or copy the address below into your wallet to send some Stellar</p>
+                    <input type="text" class="wallet-address-input"  id="stellar-wallet-address" name="stellar-wallet-address" value="GDN2GUN5GE6ZIOKD2PUZJHTYYWJQVHPDN6SMN4HW7NNWQOYDKYHXC2FQ">
+                    <button class="CDBBC_btn" data-clipboard-target="#stellar-wallet-address">
+                    COPY</button></div></div></div><script>jQuery(document).ready(function($){
+                $('ul.cbd-tabs li').click(function(){
+               var tab_id = $(this).attr('data-tab');
+             $('ul.cbd-tabs li').removeClass('current');
+                $('.dbd-tabs-content').removeClass('current');
+
+                $(this).addClass('current');
+                $('#'+tab_id).addClass('current');
+                 }
+                 )
+            }
+         ) </script>
+</body></html>
+<p>The post <a rel="nofollow" href="https://www.tr.news/chinese-man-confronts-avi-yemini-hong-kong/">WATCH: Chinese man confronts me about Hong Kong</a> appeared first on <a rel="nofollow" href="https://www.tr.news">TR News</a>.</p>
+]]></content:encoded>
+                                        </item>
+    </channel>
+</rss>
