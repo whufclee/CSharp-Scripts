@@ -1,0 +1,16 @@
+﻿		<StackPanel Orientation="Vertical"
+								Margin="10">
+
+			<TextBlock Text="Hot Coffee and Pastries"
+								 Foreground="White"
+								 FontSize="18"
+								 FontStyle="Italic" />
+			<TextBlock FontSize="14"
+								 TextWrapping='Wrap'
+								 Text="Start the morning with a jolt of coffee goodness from this trendy shop. Don't miss the Caramel Crater pastry, guaranteed to amp up your morning carb count." />
+			<TextBlock FontSize="14"
+								 Margin='0,20'
+								 TextWrapping='Wrap'
+								 Foreground='#ff666666'
+								 Text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut leo augue. Nulla dignissim, velit ut tincidunt sagittis, dui tellus dapibus nisi, ultrices feugiat risus dolor ut quam. Proin bibendum, augue et suscipit venenatis, tellus tellus varius elit, volutpat semper purus dolor eget magna. Etiam sollicitudin dolor id dui feugiat molestie. Praesent consequat bibendum mi, ac lacinia dolor hendrerit et. Aenean a purus quis lacus hendrerit ullamcorper. Donec tristique, nulla sed ullamcorper ultrices, quam risus sagittis libero, eu volutpat enim turpis cursus augue." />
+		</StackPanel>

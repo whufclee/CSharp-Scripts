@@ -1,0 +1,24 @@
+﻿<Window x:Name="Tailor_made_Tours" x:Class="TailorMadeTours.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TailorMadeTours"
+        xmlns:views="clr-namespace:TailorMadeTours.UserControls"
+        mc:Ignorable="d"
+        Title="Tailor-made Tours" Height="700" Width="800" WindowState="Maximized" FontSize="18">
+    <StackPanel >
+        <TextBlock x:Name="textBlock" TextWrapping="Wrap" Text="Tailor-made Tours - Chicago" FontWeight="Bold" FontSize="24"/>
+        <TabControl x:Name="tabControl" Height="0" MinHeight="680">
+            <TabItem x:Name="Tourstops" Header="Tour Stops">
+                <views:TourStopsView />
+            </TabItem>
+            <TabItem Header="Details">
+                <views:DetailView/>
+            </TabItem>
+            <TabItem Header="Weekly Calendar">
+                <views:ScheduleView/>
+            </TabItem>
+        </TabControl>
+    </StackPanel>
+</Window>

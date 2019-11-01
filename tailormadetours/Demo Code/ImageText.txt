@@ -1,0 +1,13 @@
+﻿<Image Source="/Images/MapPin.png"
+						 Stretch="UniformToFill"
+						 Width="50"
+						 Height="50"
+						 Grid.Row="1"
+						 HorizontalAlignment="Right" />
+			<TextBlock Text="Paddington's Pastries"
+								 Foreground="White"
+								 FontSize="28"
+								 FontWeight="Bold"
+								 Grid.Row="1"
+								 TextAlignment="Left"
+								 VerticalAlignment="Center" />

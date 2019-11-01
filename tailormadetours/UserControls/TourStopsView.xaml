@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="TailorMadeTours.UserControls.TourStopsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:TailorMadeTours.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <ListBox x:Name="ToursListBox"
+                 ItemTemplate="{StaticResource TourTemplate}"
+                 MaxHeight="500">
+        </ListBox>
+        <StackPanel Orientation="Horizontal" Grid.Row="1">
+            <Button x:Name="CalcButton" Click="CalcButton_Click" Content="Calculate Tour Length"/>
+            <TextBlock x:Name="MessageTextBlock"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

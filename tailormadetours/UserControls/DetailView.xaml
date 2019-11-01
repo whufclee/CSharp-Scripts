@@ -1,0 +1,58 @@
+﻿<UserControl x:Class="TailorMadeTours.UserControls.DetailView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:TailorMadeTours.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <StackPanel Background="DarkGray"
+>
+        <Grid Height="250" Margin="0,6,0,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="60"/>
+            </Grid.RowDefinitions>
+            <Image Height="250"
+                               Source="/TailorMadeTours;component/Images/Stops/Pastry.jpg"
+                               Grid.RowSpan="2"
+                               Stretch="UniformToFill"/>
+
+            <Rectangle Grid.Row="1"
+                                   Fill="#66001E44"/>
+
+            <Image Source="/TailorMadeTours;component/Images/MapPin.png"
+						 Stretch="UniformToFill"
+						 Width="50"
+						 Height="50"
+						 Grid.Row="1"
+						 HorizontalAlignment="Right" />
+
+            <TextBlock Text="Paddington's Pastries"
+								 Foreground="White"
+								 FontSize="28"
+								 FontWeight="Bold"
+								 Grid.Row="1"
+								 TextAlignment="Left"
+								 VerticalAlignment="Center" />
+
+        </Grid>
+        <StackPanel Orientation="Vertical"
+                                Margin="10">
+
+            <TextBlock Text="Hot Coffee and Pastries"
+								 Foreground="White"
+								 FontSize="18"
+								 FontStyle="Italic" />
+            <TextBlock FontSize="14"
+								 TextWrapping='Wrap'
+								 Text="Start the morning with a jolt of coffee goodness from this trendy shop. Don't miss the Caramel Crater pastry, guaranteed to amp up your morning carb count." />
+            <TextBlock FontSize="14"
+								 Margin='0,20'
+								 TextWrapping='Wrap'
+								 Foreground='#ff666666'
+								 Text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut leo augue. Nulla dignissim, velit ut tincidunt sagittis, dui tellus dapibus nisi, ultrices feugiat risus dolor ut quam. Proin bibendum, augue et suscipit venenatis, tellus tellus varius elit, volutpat semper purus dolor eget magna. Etiam sollicitudin dolor id dui feugiat molestie. Praesent consequat bibendum mi, ac lacinia dolor hendrerit et. Aenean a purus quis lacus hendrerit ullamcorper. Donec tristique, nulla sed ullamcorper ultrices, quam risus sagittis libero, eu volutpat enim turpis cursus augue." />
+        </StackPanel>
+    </StackPanel>
+
+</UserControl>
